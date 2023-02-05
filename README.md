@@ -47,14 +47,16 @@ Project Cashier dengan menggunakan Python
   
  ## D. Hasil Test Case
   
-  -- Membuat modul cashier.py
+  
+  1. Membuat modul cashier.py
   
   ![Screenshot 2023-02-05 210202](https://user-images.githubusercontent.com/110279502/216820921-8e93465d-b59c-4ccc-99d2-b19cf99adc3a.jpg)
 
   
-  -- Membuat Objek
+  2. Inisiasi 
   
-  ![Screenshot 2023-02-05 142028](https://user-images.githubusercontent.com/110279502/216804950-17544c67-5404-4a3a-b6bf-edd5341a3db6.jpg)
+  ![Screenshot 2023-02-05 210448](https://user-images.githubusercontent.com/110279502/216821019-2dcd86b4-e973-42d0-b09c-177d6f5f828f.jpg)
+
   
   -- Menambahkan Item
   ![Screenshot 2023-02-05 142326](https://user-images.githubusercontent.com/110279502/216805002-06616c6e-b645-4713-9bee-dff158781d95.jpg)
