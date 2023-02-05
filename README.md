@@ -24,13 +24,13 @@ Project Cashier dengan menggunakan Python
       Ketika menghapus salah satu nama item, maka jumlah item dan harga per item pada baris/list       tersebut akan ikut terhapus
   b. Langsung menghapus semua transaksi atau reset transaksi dengan method
      reset_transaction()
- 5. Customer sudah selesai dengan berbelanja online nya, tetapi Customer masih ragu apakah harga barang dan nama barang yang diinput sudah benar. Bisa ssaja Customer melakukan kesalahan dalam melakukan input, semisal sudah melakukan input harga barang tetapi lupa untuk input nama barangnya. Andi bisa menggunakan method check_order(). Terdapat ketentuan:
+5. Customer sudah selesai dengan berbelanja online nya, tetapi Customer masih ragu apakah harga barang dan nama barang yang diinput sudah benar. Bisa ssaja Customer melakukan kesalahan dalam melakukan input, semisal sudah melakukan input harga barang tetapi lupa untuk input nama barangnya. Andi bisa menggunakan method check_order(). Terdapat ketentuan:
   a. Akan mengeluarkan pesan "Pemesanan sudah benar" (bebas bisa dengan messege yang lain)          jika tidak ada kesalahan input
   b. Akan mengeluarkan pesan "Terdapat kesalahan input data" jika terjadi kesalahan input
   c. keluarkan output transaksi atau pemesanan apa saja yang sudah dibeli.
     Contoh Output:
     ![Uploading Screenshot 2023-02-05 134223.jpg…]()
- 6. Setelah melakukan pengecekan, Customer bisa menghitung total belanja yang sudah dibeli, Andi bisa menggunakan method total_price(). Pada supermarket ini ternyata terdapat ketentuan:
+6. Setelah melakukan pengecekan, Customer bisa menghitung total belanja yang sudah dibeli, Andi bisa menggunakan method total_price(). Pada supermarket ini ternyata terdapat ketentuan:
    a. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 5%
    b. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 8%
    c. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 10%
@@ -48,9 +48,12 @@ Project Cashier dengan menggunakan Python
  ## D. Hasil Test Case
   
   -- Membuat modul cashier.py
-  ![Screenshot 2023-02-05 142437](https://user-images.githubusercontent.com/110279502/216805043-1efaf52d-b78d-4c86-bc8f-e15c5de7f801.jpg)
+  
+  ![Screenshot 2023-02-05 210202](https://user-images.githubusercontent.com/110279502/216820921-8e93465d-b59c-4ccc-99d2-b19cf99adc3a.jpg)
+
   
   -- Membuat Objek
+  
   ![Screenshot 2023-02-05 142028](https://user-images.githubusercontent.com/110279502/216804950-17544c67-5404-4a3a-b6bf-edd5341a3db6.jpg)
   
   -- Menambahkan Item
