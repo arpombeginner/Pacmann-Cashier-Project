@@ -55,7 +55,8 @@ Project Cashier dengan menggunakan Python
   
   2. Inisiasi 
   
-  ![Screenshot 2023-02-05 210448](https://user-images.githubusercontent.com/110279502/216821019-2dcd86b4-e973-42d0-b09c-177d6f5f828f.jpg)
+  ![Screenshot 2023-02-05 211450](https://user-images.githubusercontent.com/110279502/216821111-7e02b509-006b-45d7-a577-f9bdd63dc4e0.jpg)
+
 
   
   -- Menambahkan Item
