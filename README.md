@@ -62,7 +62,7 @@ Project Cashier dengan menggunakan Python
   
     - Pandas
   
- ## D. Hasil Test Case
+ ## D. Test Case
   
  1. Inisiasi 
   
