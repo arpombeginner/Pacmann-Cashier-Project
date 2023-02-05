@@ -47,37 +47,44 @@ Project Cashier dengan menggunakan Python
   
  ## D. Hasil Test Case
   
+  1. Inisiasi 
   
-  1. Membuat modul cashier.py
+  a. Membuat modul cashier.py
   
   ![Screenshot 2023-02-05 210202](https://user-images.githubusercontent.com/110279502/216820921-8e93465d-b59c-4ccc-99d2-b19cf99adc3a.jpg)
 
   
-  2. Inisiasi 
+  b. Membuat Objek 
   
   ![Screenshot 2023-02-05 211450](https://user-images.githubusercontent.com/110279502/216821111-7e02b509-006b-45d7-a577-f9bdd63dc4e0.jpg)
-
-
   
-  -- Menambahkan Item
+  2. Features 
+  
+  a. Menambahkan Item
+  
   ![Screenshot 2023-02-05 142326](https://user-images.githubusercontent.com/110279502/216805002-06616c6e-b645-4713-9bee-dff158781d95.jpg)
   
-  -- Mengubah Nama Item
+  b. Mengubah Nama Item
+  
   ![Screenshot 2023-02-05 142737](https://user-images.githubusercontent.com/110279502/216805116-29dfa49e-f32b-41b3-9c3a-a8072763738c.jpg)
   
-  -- Mengubah Jumlah Item
+  c. Mengubah Jumlah Item
+  
   ![Screenshot 2023-02-05 142923](https://user-images.githubusercontent.com/110279502/216805163-383c0d96-5f67-4f6e-bcf6-197103561594.jpg)
 
-  -- Mengubah Harga Item
+  d. Mengubah Harga Item
+  
   ![Screenshot 2023-02-05 143102](https://user-images.githubusercontent.com/110279502/216805195-74865b0e-7e52-4612-8559-0867e783a367.jpg)
   
-  -- Menghapus Item yang tidak diinginkan
+  e. Menghapus Item yang tidak diinginkan
+  
   ![Screenshot 2023-02-05 143245](https://user-images.githubusercontent.com/110279502/216805266-4f34acb9-2c4e-4d30-8ccc-9114d7838d86.jpg)
   
-  -- Menghapus Semua Item yang tidak diinginkan
+  f. Menghapus Semua Item yang tidak diinginkan
+  
   ![Screenshot 2023-02-05 143459](https://user-images.githubusercontent.com/110279502/216805305-d85b63d7-85d2-498c-bf45-9ba87714ed93.jpg)
 
-  -- Menghitung Harga seluruh Item yang akan dibeli
+  g. Menghitung Harga seluruh Item yang akan dibeli
   ![Screenshot 2023-02-05 143803](https://user-images.githubusercontent.com/110279502/216805394-fe29c561-28e7-44fb-9bde-6f6b1099f747.jpg)
 
 ## E. Saran Perbaikan
