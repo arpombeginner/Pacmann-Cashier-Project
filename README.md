@@ -9,48 +9,48 @@ Project Cashier dengan menggunakan Python
 
 1. Customer membuat ID transaksi customer berikut
 
-  a. Dengan membuat objek dari class: trnsct_123 = Transaction()
+     a. Dengan membuat objek dari class: trnsct_123 = Transaction()
   
 2. Kemudian, Customer memasukkan nama item, jumlah item, dan harga barang.
 
-  a. Memasukkan item yang ingin dibeli.
+     a. Memasukkan item yang ingin dibeli.
      add-item ([<nama_item>, <jumlah item>, <harga per item>])
      
 3. Jika ternyata ada kesalahan dalam memaukkan nama item atau jumlah item atau harga item tetapi  tidak ingin menghapus itemnya, Customer bisa melakukan
 
-  a. Update nama item dengan method:
+     a. Update nama item dengan method:
      update_item_nama(<nama item>, <jumlah item>, <harga per item>)
      
-  b. Update jumlah item dengan method:
+     b. Update jumlah item dengan method:
      update_item_qty(<nama_item>, <update jumlah item>)
      
-  c. Update harga item menggunakan method:
+     c. Update harga item menggunakan method:
      update_item_price(<nama_item>, <update harga item>
      
  4. Jika batal membeli item belanjaan, Customer bida melakukan
  
-  a. Menghapus salah satu item dari nama item dengan method
+     a. Menghapus salah satu item dari nama item dengan method
       delete_item(<nama item>
       Ketika menghapus salah satu nama item, maka jumlah item dan harga per item pada baris/list tersebut akan ikut terhapus
       
-  b. Langsung menghapus semua transaksi atau reset transaksi dengan method
+     b. Langsung menghapus semua transaksi atau reset transaksi dengan method
      reset_transaction()
 5. Customer sudah selesai dengan berbelanja online nya, tetapi Customer masih ragu apakah harga barang dan nama barang yang diinput sudah benar. Bisa ssaja Customer melakukan kesalahan dalam melakukan input, semisal sudah melakukan input harga barang tetapi lupa untuk input nama barangnya. Andi bisa menggunakan method check_order(). Terdapat ketentuan:
 
-  a. Akan mengeluarkan pesan "Pemesanan sudah benar" (bebas bisa dengan messege yang lain) jika tidak ada kesalahan input
+     a. Akan mengeluarkan pesan "Pemesanan sudah benar" (bebas bisa dengan messege yang lain) jika tidak ada kesalahan input
   
-  b. Akan mengeluarkan pesan "Terdapat kesalahan input data" jika terjadi kesalahan input
+     b. Akan mengeluarkan pesan "Terdapat kesalahan input data" jika terjadi kesalahan input
   
-  c. keluarkan output transaksi atau pemesanan apa saja yang sudah dibeli.
+     c. keluarkan output transaksi atau pemesanan apa saja yang sudah dibeli.
   
   
 6. Setelah melakukan pengecekan, Customer bisa menghitung total belanja yang sudah dibeli, Andi bisa menggunakan method total_price(). Pada supermarket ini ternyata terdapat ketentuan:
 
-   a. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 5%
+     a. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 5%
   
-   b. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 8%
+     b. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 8%
   
-   c. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 10%
+     c. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 10%
   
 ## C. Tools
   
