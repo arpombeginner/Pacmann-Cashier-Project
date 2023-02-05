@@ -85,10 +85,11 @@ Project Cashier dengan menggunakan Python
   ![Screenshot 2023-02-05 143459](https://user-images.githubusercontent.com/110279502/216805305-d85b63d7-85d2-498c-bf45-9ba87714ed93.jpg)
 
   g. Menghitung Harga seluruh Item yang akan dibeli
+  
   ![Screenshot 2023-02-05 143803](https://user-images.githubusercontent.com/110279502/216805394-fe29c561-28e7-44fb-9bde-6f6b1099f747.jpg)
 
 ## E. Saran Perbaikan
-  - Sebaiknya 
+  a. Perbaikan Program dibuat jika menemukan masalah pada user 
 
   
 
