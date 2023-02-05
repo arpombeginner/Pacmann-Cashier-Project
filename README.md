@@ -2,9 +2,11 @@
 Project Cashier dengan menggunakan Python
 
 ## A. Background Project
+
 ![Screenshot 2023-02-05 131628](https://user-images.githubusercontent.com/110279502/216803035-bff0c707-8946-45d0-9c8f-67fa4ec3427d.jpg)
 
 ## B. Feature Requirements
+
 1. Customer membuat ID transaksi customer berikut
   a. Dengan membuat objek dari class: trnsct_123 = Transaction()
 2. Kemudian, Customer memasukkan nama item, jumlah item, dan harga barang.
@@ -20,7 +22,6 @@ Project Cashier dengan menggunakan Python
  4. Jika batal membeli item belanjaan, Customer bida melakukan
   a. Menghapus salah satu item dari nama item dengan method
       delete_item(<nama item>)
-      ![Uploading Screenshot 2023-02-05 133045.jpg…]()
       Ketika menghapus salah satu nama item, maka jumlah item dan harga per item pada baris/list       tersebut akan ikut terhapus
   b. Langsung menghapus semua transaksi atau reset transaksi dengan method
      reset_transaction()
@@ -29,7 +30,6 @@ Project Cashier dengan menggunakan Python
   b. Akan mengeluarkan pesan "Terdapat kesalahan input data" jika terjadi kesalahan input
   c. keluarkan output transaksi atau pemesanan apa saja yang sudah dibeli.
     Contoh Output:
-    ![Uploading Screenshot 2023-02-05 134223.jpg…]()
 6. Setelah melakukan pengecekan, Customer bisa menghitung total belanja yang sudah dibeli, Andi bisa menggunakan method total_price(). Pada supermarket ini ternyata terdapat ketentuan:
    a. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 5%
    b. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 8%
