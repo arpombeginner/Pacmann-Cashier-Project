@@ -47,7 +47,9 @@ Project Cashier dengan menggunakan Python
 6. Setelah melakukan pengecekan, Customer bisa menghitung total belanja yang sudah dibeli, Andi bisa menggunakan method total_price(). Pada supermarket ini ternyata terdapat ketentuan:
 
    a. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 5%
+  
    b. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 8%
+  
    c. Jika total belanja Andi diatas Rp 200_000 maka akan mendaptkan diskon 10%
   
 ## C. Tools
